@@ -1,0 +1,7 @@
+.playedIndicator {
+  background: #5dd000;
+}
+
+.pageTitleWithDefaultLogo {
+    background-image: url(todo);
+}
